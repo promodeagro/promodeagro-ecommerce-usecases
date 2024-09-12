@@ -1,4 +1,4 @@
-- [B2C UseCases](#b2c-usecases)
+- [B2C UseCases And Test Cases](#b2c-usecases-and-test-cases)
 - [Admin UseCases And Test Cases ](#admin-usecases-and-test-cases)
 - [Inventory UseCases And Test Cases ](#inventory-usecases-and-test-cases)
 - [Rider UseCases And Test Cases](#rider-usecases-and-test-cases)
