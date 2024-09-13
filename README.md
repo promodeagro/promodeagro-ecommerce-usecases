@@ -26,7 +26,17 @@
 | 8. Promotion and Discounts | [Promotion and Discounts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Promotions%20and%20Discounts.md) |Promotions and Discounts Test Case| www.google.com |
 | 9. Mobile Responsiveness | [Mobile Responsiveness](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Mobile%20Responsive.md) |Mobile Responsiveness Test Case| www.google.com |
 | 10. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
-
+| 11. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 12. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 13. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 14. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 15. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 16. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 17. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 18. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 19. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 20. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com || 10. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 22. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
 
 # Admin UseCases And Test Cases
 | Use Case Name   | Use Case link | Test Case Name | Test Case Link| Status |
