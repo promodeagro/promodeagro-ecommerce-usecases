@@ -1,8 +1,9 @@
-- [B2C UseCases And Test Cases](#b2c-usecases-and-test-cases)
+
 - [Admin UseCases And Test Cases ](#admin-usecases-and-test-cases)
 - [Inventory UseCases And Test Cases ](#inventory-usecases-and-test-cases)
 - [Rider UseCases And Test Cases](#rider-usecases-and-test-cases)
 - [Packers UseCases And Test Cases](#packers-usecases-and-test-cases)
+  [B2C UseCases And Test Cases](#b2c-usecases-and-test-cases)
 
 | Use Case Name   | Use Case link | Test Case Name | Test Case Link| Status |
 | --- | --- | --- | --- | --- |
@@ -17,7 +18,7 @@
 | 9. My Profile | [My Profile Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Order%20Tracking.md)|My Profile Test Case| www.google.com |
 | 10. Change Password | [Change Password Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/User%20Account%20Management.md) |Change Password Test Case| www.google.com |
 | 11. Wish List | [Wish List Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Search%20Functionality.md) |Wish List Test Case| www.google.com |
-| 12. Notification | [Notification Use Cae](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Promotions%20and%20Discounts.md) |Promotions and Discounts Test Case| www.google.com |
+| 12. Notification | [Notification Use Cae](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Promotions%20and%20Discounts.md) |Notification Test Case| www.google.com |
 | 13. Account Privacy | [Account Privacy Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Mobile%20Responsive.md) |Account Privacy Test Case| www.google.com |
 
 # Admin UseCases And Test Cases
