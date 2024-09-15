@@ -3,7 +3,8 @@
 - [Inventory UseCases And Test Cases ](#inventory-usecases-and-test-cases)
 - [Rider UseCases And Test Cases](#rider-usecases-and-test-cases)
 - [Packers UseCases And Test Cases](#packers-usecases-and-test-cases)
-  [B2C UseCases And Test Cases](#b2c-usecases-and-test-cases)
+
+- [B2C UseCases And Test Cases](#b2c-usecases-and-test-cases)
 
 | Use Case Name   | Use Case link | Test Case Name | Test Case Link| Status |
 | --- | --- | --- | --- | --- |
