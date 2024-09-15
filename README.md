@@ -8,7 +8,7 @@
 
 | Use Case Name   | Use Case link | Test Case Name | Test Case Link| Status |
 | --- | --- | --- | --- | --- | 
-| 1. Home Page |[Reistration use case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Registration.md) |Registration Test Case| www.google.com |
+| 1. Login |[Login use case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Registration.md) |Login Test Case| www.google.com |
 | 2. Home - > User Registration/Login |[Login Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Login.md) |Login Test Case| www.google.com | 
 | 3. Product Catalog | 
 | a. Browsing | [Browsing Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Browsing.md) |Browsing Test Case| www.google.com |
