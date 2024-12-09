@@ -76,4 +76,4 @@ Incomplete Payment Details:
 Item List Inconsistency:
 
 \- If certain items are missing from the database or cannot be fetched:
-`  `- The system highlights such items with a 'Data not available' message.
+- The system highlights such items with a 'Data not available' message.
