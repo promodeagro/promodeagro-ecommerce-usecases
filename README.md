@@ -60,7 +60,7 @@
 | --- | --- | --- | --- | --- |
 | 1. User Authentication | 
 | a. Registration |[Reistration use case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Registration.md) |Registration Test Case| www.google.com |
-| b. Login |https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Login_Use_Case/Rider_Login_Use_Case.md|Login Test Case| www.google.com | 
+| b. Login |[Login use case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Login_Use_Case/Rider_Login_Use_Case.md) |Login Test Case| www.google.com | 
 | 2. Product Catalog | 
 | a. Browsing | [Browsing Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Browsing.md) |Browsing Test Case| www.google.com |
 | b. Product Details | [Product Detail Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Product%20Details.md)|Product Details Test Case| www.google.com |
