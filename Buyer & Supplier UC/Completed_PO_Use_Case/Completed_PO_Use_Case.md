@@ -34,35 +34,35 @@ The Buyer navigates to the 'Completed P.O.' section in the application and inter
 
 \- The Buyer selects a specific completed P.O. and clicks 'View Details.'
 \- The system displays the following details:
-`  `- Delivery Date
-`  `- Ship To
-`  `- Payment Term
-`  `- Completed P.O. Status
-`  `- Amount Received
-`  `- Notes
+  - Delivery Date
+  - Ship To
+  - Payment Term
+  - Completed P.O. Status
+  - Amount Received
+  - Notes
 
 4\. Checking Payment Details
 
 \- The Buyer clicks the 'Payment Details' button within the P.O. details.
 \- The system shows:
-`  `- Subtotal
-`  `- Shipping Charges
-`  `- Loading Charges
-`  `- Total Amount
-`  `- Payment Made
-`  `- Amount Due
+- Subtotal
+- Shipping Charges
+- Loading Charges
+- Total Amount
+- Payment Made
+- Amount Due
 \- If required, the Buyer clicks the 'Payment History' button to review all past payments for this P.O.
 
 5\. Reviewing Item List
 
 \- The Buyer clicks the 'Item List' button to see:
-`  `- Purchased Items (name and quantity).
-`  `- Items marked as 'Not Available' (name and quantity).
+- Purchased Items (name and quantity).
+- Items marked as 'Not Available' (name and quantity).
 ## **Alternative Flow**
 Sorting Error:
 
 \- If the system encounters an error while sorting:
-`  `- It displays an error message, and the Buyer can retry sorting or refresh the list.
+- It displays an error message, and the Buyer can retry sorting or refresh the list.
 
 Empty Completed P.O. List:
 
@@ -71,7 +71,7 @@ Empty Completed P.O. List:
 Incomplete Payment Details:
 
 \- If payment information is incomplete or not updated:
-`  `- The system notifies the Buyer with 'Payment details not available for this order.'
+- The system notifies the Buyer with 'Payment details not available for this order.'
 
 Item List Inconsistency:
 
