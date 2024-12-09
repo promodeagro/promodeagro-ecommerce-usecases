@@ -3,7 +3,7 @@
 This use case details how a Buyer and Supplier interact with the purchase order summary to view, sort, and manage purchase orders (P.O.). Buyers can sort orders, view detailed information, and decide to confirm or reject a purchase order.
 ## **Trigger Point:**
 The Buyer navigates to the 'Purchase Order Summary' page from the dashboard.
-## **Actor(s):**
+## **Actors:**
 \- Buyer
 
 \- Supplier
