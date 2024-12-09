@@ -23,7 +23,7 @@ The Buyer/Supplier opens the application and navigates to the login module.
 
 3\. The system validates the credentials:
 
-`   `- If valid, the system grants access to the Buyer/Supplier's dashboard.
+- If valid, the system grants access to the Buyer/Supplier's dashboard.
 ### **Alternative Flow (Forgot Password)**
 1\. The Buyer/Supplier clicks on the Forgot Password button.
 
@@ -35,7 +35,7 @@ The Buyer/Supplier opens the application and navigates to the login module.
 
 5\. The Buyer/Supplier enters the OTP in the application.
 
-`   `- If the OTP is valid, the system prompts the Buyer/Supplier to create a new password.
+- If the OTP is valid, the system prompts the Buyer/Supplier to create a new password.
 
 6\. The Buyer/Supplier enters a new password and confirms it.
 
