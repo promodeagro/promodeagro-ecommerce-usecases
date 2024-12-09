@@ -20,39 +20,39 @@ The Buyer navigates to the 'Purchase Order Summary' page from the dashboard.
 
 2\. The system displays four cards showing the count of:
 
-`   `- Pending P.O
+- Pending P.O
 
-`   `- Confirmed P.O
+- Confirmed P.O
 
-`   `- Rejected P.O
+- Rejected P.O
 
-`   `- Completed P.O
+- Completed P.O
 
 3\. The Buyer clicks the 'Sort by' dropdown to sort purchase orders by:
 
-`   `- Latest P.O
+- Latest P.O
 
-`   `- Oldest P.O
+- Oldest P.O
 
 4\. The Buyer selects a 'Pending P.O' and clicks 'View Details.'
 
 5\. The system displays purchase order details including:
 
-`   `- Delivery Date
+- Delivery Date
 
-`   `- Ship To
+- Ship To
 
-`   `- Payment Term
+- Payment Term
 
-`   `- Note
+- Note
 
-`   `- Item List (Name and Quantity).
+- Item List (Name and Quantity).
 
 6\. The Buyer sees two options:
 
-`   `- Confirm Purchase Order
+- Confirm Purchase Order
 
-`   `- Reject Purchase Order.
+- Reject Purchase Order.
 
 7\. If the Buyer selects Confirm Purchase Order, the system updates the P.O status to Confirmed.
 
