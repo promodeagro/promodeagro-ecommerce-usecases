@@ -42,9 +42,4 @@ The Buyer/Supplier opens the application and navigates to the login module.
 7\. The system updates the password successfully.
 
 8\. The system redirects the Buyer/Supplier to the login page.
-### **Exceptions / Error Handling**
-\- Invalid Login Credentials: If the Buyer/Supplier enters an incorrect email or password, the system displays an error message: "Invalid email or password. Please try again."
 
-\- Expired/Incorrect OTP: If the OTP is invalid or expired, the system displays an error message: "Invalid OTP. Please request a new one."
-
-\- Password Mismatch: If the new password and confirm password fields do not match, the system prompts the Buyer/Supplier to re-enter them.
