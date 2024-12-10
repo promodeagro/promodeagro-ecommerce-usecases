@@ -6,44 +6,40 @@ When the packer clicks on the 'Edit' button to update their profile or change th
 ## **Actor:**
 Packer
 ## **Preconditions:**
-\- The packer must be logged into the system.
+1. The packer must be logged into the system.
 
-\- The profile details page is accessible to the packer.
+2. The profile details page is accessible to the packer.
 
-\- The system must have existing user information stored.
+3. The system must have existing user information stored.
 ## **Postconditions:**
-\- The updated profile information is saved in the system.
+1. The updated profile information is saved in the system.
 
-\- The password is updated successfully, and the packer can log in using the new password.
+2. The password is updated successfully, and the packer can log in using the new password.
 
-\- A confirmation message is displayed to the packer indicating that the changes were saved successfully.
+3. A confirmation message is displayed to the packer indicating that the changes were saved successfully.
 ## **Normal Flow:**
-\- The packer logs into the system and navigates to the 'Profile Details' page.
+1. The packer logs into the system and navigates to the 'Profile Details' page.
 
-\- The packer clicks the 'Edit' button.
+2. The packer clicks the 'Edit' button.
 
-\- The system displays editable fields for username, email, and password.
+3. The system displays editable fields for username, email, and password.
 
-\- The packer updates the necessary details:
+4. The packer updates the necessary details:
+- For password change: The packer enters the current password and the new password.
+- The packer clicks the 'Change Password' button to save the updates.
 
-\-    - For password change: The packer enters the current password and the new password.
+5. The system validates the entered details:
+- Ensures the current password matches the existing password.
+- Checks that the new password meets complexity requirements.
 
-\- The packer clicks the 'Change Password' button to save the updates.
+6. If validation succeeds, the system saves the updated details.
 
-\- The system validates the entered details:
+7. A confirmation message is displayed: 'Profile updated successfully.'
 
-\-    - Ensures the current password matches the existing password.
-
-\-    - Checks that the new password meets complexity requirements.
-
-\- If validation succeeds, the system saves the updated details.
-
-\- A confirmation message is displayed: 'Profile updated successfully.'
-
-\- The packer is redirected to the updated 'Profile Details' page.
+8. The packer is redirected to the updated 'Profile Details' page.
 ## **Alternative Flow:**
-\- If the current password entered is incorrect, the system displays an error message: 'Incorrect current password. Please try again.'
+1. If the current password entered is incorrect, the system displays an error message: 'Incorrect current password. Please try again.'
 
-\- If the new password does not meet the requirements, the system displays a validation message: 'Password must meet the complexity requirements.'
+2. If the new password does not meet the requirements, the system displays a validation message: 'Password must meet the complexity requirements.'
 
-\- The packer can re-enter the details and attempt to save them again.
+3. The packer can re-enter the details and attempt to save them again.
