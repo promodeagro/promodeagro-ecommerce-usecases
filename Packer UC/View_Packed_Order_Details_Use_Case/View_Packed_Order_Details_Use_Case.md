@@ -26,29 +26,24 @@ Primary Actor: Packer
 
 5\. The "Order Details" screen displays:
 
-- `   `- Order ID
-- `   `- Customer Name
-- `   `- Payment Method
-- `   `- Total Price
-- `   `- Item List with item name, quantity, and price
-- `   `- Cost Details including subtotal, shipping charges, and total amount
+- Order ID
+- Customer Name
+- Payment Method
+- Total Price
+- Item List with item name, quantity, and price
+- Cost Details including subtotal, shipping charges, and total amount
 ## **Alternative Flow**
-Scenario: No Orders Found
+1. Scenario: No Orders Found
 
-1\. The packed orders list is empty.
+- The packed orders list is empty.
+- The app displays a message: "No packed orders available."
 
-2\. The app displays a message: "No packed orders available."
+2. Scenario: System Error
 
+- The packer clicks "View Details" but the system fails to retrieve the order details.
+- The app displays an error message: "Unable to load order details. Please try again later."
 
-Scenario: System Error
+3. Scenario: Incorrect Order Details
 
-1\. The packer clicks "View Details" but the system fails to retrieve the order details.
-
-2\. The app displays an error message: "Unable to load order details. Please try again later."
-
-
-Scenario: Incorrect Order Details
-
-1\. After viewing the order details, the packer identifies missing or incorrect information.
-
-2\. The packer flags the issue using a feedback mechanism or contacts the support team.
+- After viewing the order details, the packer identifies missing or incorrect information.
+-The packer flags the issue using a feedback mechanism or contacts the support team.
