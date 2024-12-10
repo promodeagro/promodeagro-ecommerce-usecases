@@ -60,7 +60,7 @@
 | --- | --- | --- | --- | --- |
 | 1. User Authentication | 
 | a. Registration |[Reistration use case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Registration_Use_Case/Rider_Registration_Use_Case.md) |Registration Test Case| www.google.com |
-| b. Login |[Login use case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Login_Use_Case/Rider_Login_Use_Case.md) |Login Test Case| www.google.com | 
+| b. Login |[Login use case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Login_Use_Case/Rider_Login_Use_Case.md) |Login Test Case| www.google.com |[link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=6223-58744&node-type=frame&t=mD3Mfs3XGQqkTNVG-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112804&starting-point-node-id=4414%3A10649&show-proto-sidebar=1)
 | 2. Product Catalog | 
 | a. Browsing | [Browsing Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Browsing.md) |Browsing Test Case| www.google.com |
 | b. Product Details | [Product Detail Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Product%20Details.md)|Product Details Test Case| www.google.com |
