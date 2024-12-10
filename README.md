@@ -66,9 +66,7 @@
 | 4. Check Out Process | 
 | a. Address and Shipping | [Address and Shipping Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Address%20and%20Shiping.md)|Check Out Process Test Case| www.google.com |
 | b. Payment |[Payment Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Payments.md) |Payment Test Case| www.google.com | 
-| 5. Order Management |  
-| a. Order Placement |[Order Placement Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Order%20Placement.md) |Order Placement Test Case| www.google.com |
-| b. Order Tracking | [Order Tracking Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Order%20Tracking.md)|Order Tracking Test Case| www.google.com |
+| 5. Specific Order Management |[Specific Order Management UC](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Manage_Shipment_Use_Case/Rider_Manage_Shipment_Use_Case.md)|sepcific Order mangement TC| | [Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=4247-77645&node-type=frame&t=WycsOW6mEQQPpeoa-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112804&starting-point-node-id=4414%3A10649) 
 | 6. User Account Management | [User Account Management Use Case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Registration_Use_Case/Rider_Registration_Use_Case.md) |User Account Management Test Case| www.google.com |
 | 7. Runsheet Management | [Runsheet Management](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Runsheet_Management_Use_Case/Rider_Runsheet_Management_Use_Case.md) | Runsheet Management Test Case||[Link](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Runsheet_Management_Use_Case/Rider_Runsheet_Management_Use_Case.md)  |
 | 10. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
