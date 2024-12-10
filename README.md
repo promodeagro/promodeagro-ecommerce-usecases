@@ -61,9 +61,7 @@
 | 1. User Authentication | 
 | a. Registration |[Reistration use case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Registration_Use_Case/Rider_Registration_Use_Case.md) |Registration Test Case| www.google.com |[Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=6236-63518&node-type=frame&t=WycsOW6mEQQPpeoa-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112804&starting-point-node-id=4414%3A10649&show-proto-sidebar=1)
 | b. Login |[Login use case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Login_Use_Case/Rider_Login_Use_Case.md) |Login Test Case| www.google.com |[link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=6223-58744&node-type=frame&t=mD3Mfs3XGQqkTNVG-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112804&starting-point-node-id=4414%3A10649&show-proto-sidebar=1)
-| 2. Product Catalog | 
-| a. Browsing | [Browsing Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Browsing.md) |Browsing Test Case| www.google.com |
-| b. Product Details | [Product Detail Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Product%20Details.md)|Product Details Test Case| www.google.com |
+| 2. Menu |[Menu Usecase](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Menu_Use_Case/Rider_Menu_Use_Case.md)| Menu Test case||[Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=4414-10649&node-type=frame&t=WycsOW6mEQQPpeoa-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112804&starting-point-node-id=4414%3A10649) 
 | 3. Shopping Cart | [Shopping Cart Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Shopping%20Cart.md) |Shopping Cart Test Case | www.google.com |
 | 4. Check Out Process | 
 | a. Address and Shipping | [Address and Shipping Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Address%20and%20Shiping.md)|Check Out Process Test Case| www.google.com |
@@ -73,8 +71,6 @@
 | b. Order Tracking | [Order Tracking Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Order%20Tracking.md)|Order Tracking Test Case| www.google.com |
 | 6. User Account Management | [User Account Management Use Case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Registration_Use_Case/Rider_Registration_Use_Case.md) |User Account Management Test Case| www.google.com |
 | 7. Runsheet Management | [Runsheet Management](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Runsheet_Management_Use_Case/Rider_Runsheet_Management_Use_Case.md) | Runsheet Management Test Case||[Link](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Runsheet_Management_Use_Case/Rider_Runsheet_Management_Use_Case.md)  |
-| 8. Promotion and Discounts | [Promotion and Discounts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Promotions%20and%20Discounts.md) |Promotions and Discounts Test Case| www.google.com |
-| 9. Mobile Responsiveness | [Mobile Responsiveness](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Mobile%20Responsive.md) |Mobile Responsiveness Test Case| www.google.com |
 | 10. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
 
 # Packers UseCases And Test Cases
