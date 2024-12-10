@@ -1,4 +1,5 @@
-﻿# **Use Case: Rider Runsheet Management**
+
+ # **Use Case: Rider Runsheet Management**
 ## **Use Case Description:**
 The Rider interacts with the application to view available runsheets, accept a specific runsheet, and manage the associated orders. The runsheet contains details of pending, delivered, and undelivered shipments. The Rider can search for shipments and view details such as payment type (COD or prepaid).
 ## **Trigger Point:**
@@ -22,19 +23,19 @@ Rider
 
 2\. The app displays available runsheets with information such as:
 
-`   `- Number of orders (Pending, Delivered, Undelivered)
+- Number of orders (Pending, Delivered, Undelivered)
 
-`   `- Total cash to be collected (if applicable).
+- Total cash to be collected (if applicable).
 
 3\. The Rider selects and accepts a runsheet by tapping "Accept Runsheet."
 
 4\. The app navigates to the selected runsheet details, displaying:
 
-`   `- Order statuses (Pending, Delivered, Undelivered).
+- Order statuses (Pending, Delivered, Undelivered).
 
-`   `- Shipment details, including customer name, address, payment type (COD/Prepaid), and payment amount.
+- Shipment details, including customer name, address, payment type (COD/Prepaid), and payment amount.
 
-`   `- A search bar for finding specific shipments.
+- A search bar for finding specific shipments.
 
 5\. The Rider updates the status of orders as they are delivered or marked undelivered.
 
@@ -42,14 +43,14 @@ Rider
 ## **Alternative Flow:**
 1\. If the Rider rejects a runsheet:
 
-`   `- The app redirects back to the "Home" page, leaving the runsheet unassigned.
+- The app redirects back to the "Home" page, leaving the runsheet unassigned.
 
 2\. If the Rider attempts to accept a runsheet but the system encounters a technical error:
 
-`   `- The system shows an error message (e.g., "Unable to process request, please try again").
+- The system shows an error message (e.g., "Unable to process request, please try again").
 
-`   `- The Rider can retry or contact support.
+- The Rider can retry or contact support.
 
 3\. If no shipments match the Rider's search query:
 
-`   `- The app displays a message like "No results found."
+- The app displays a message like "No results found."
