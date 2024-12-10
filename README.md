@@ -56,7 +56,7 @@
 | 10. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
 
 # Rider UseCases And Test Cases
-| Use Case Name   | Use Case link | Test Case Name | Test Case Link| Status |
+| Use Case Name   | Use Case link | Test Case Name | Test Case Link| Design Link |
 | --- | --- | --- | --- | --- |
 | 1. User Authentication | 
 | a. Registration |[Reistration use case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Rider_Registration_Use_Case/Rider_Registration_Use_Case.md) |Registration Test Case| www.google.com |
