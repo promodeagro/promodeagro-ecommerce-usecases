@@ -25,31 +25,31 @@ The packer clicks on the 'Start Order' button for a specific unpacked order on t
 
 3\. Order Details View: The system displays the details of the selected order, including:
 
-`   `- Customer name.
+- Customer name.
 
-`   `- Payment details.
+- Payment details.
 
-`   `- Item list with quantities and prices.
+- Item list with quantities and prices.
 
-`   `- Total cost details.
+- Total cost details.
 
 4\. Pack Order: The packer clicks on the 'Pack Order' button after verifying the order details.
 
 5\. Take Picture of Packed Order:
 
-`   `- The system prompts the packer to take a picture of the packed order using the device's camera.
+- The system prompts the packer to take a picture of the packed order using the device's camera.
 
-`   `- The packer captures the image and submits it.
+- The packer captures the image and submits it.
 
 6\. Update Order Status: The system updates the order status as 'Packed' and moves it to the 'Packed Orders' section.
 
 7\. Update Home Screen:
 
-`   `- The count of unpacked orders is decremented.
+- The count of unpacked orders is decremented.
 
-`   `- The count of packed orders is incremented.
+- The count of packed orders is incremented.
 
-`   `- The order disappears from the unpacked orders list.
+- The order disappears from the unpacked orders list.
 ## **Alternative Flow:**
 Scenario 1: No Camera Access
 
