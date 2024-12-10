@@ -23,42 +23,42 @@ The Rider selects either the Delivered Orders or Undelivered Orders option from 
 
 2\. The Rider selects Delivered Orders:
 
-`   `- The system displays a list of all delivered orders with details like:
+- The system displays a list of all delivered orders with details like:
 
-`     `- Customer Name
+- Customer Name
 
-`     `- Address
+- Address
 
-`     `- Payment Information (e.g., ₹2980)
+- Payment Information (e.g., ₹2980)
 
-`     `- Number of Items
+- Number of Items
 
 3\. The Rider selects Undelivered Orders:
 
-`   `- The system displays a list of undelivered orders with details like:
+- The system displays a list of undelivered orders with details like:
 
-`     `- Customer Name
+- Customer Name
 
-`     `- Address
+- Address
 
-`     `- Payment Type (COD or Prepaid)
+- Payment Type (COD or Prepaid)
 
-`     `- Number of Items
+- Number of Items
 
-`     `- Reason for Non-Delivery
+- Reason for Non-Delivery
 
 4\. For undelivered orders:
 
-`   `- The Rider clicks the Reattempt button.
+- The Rider clicks the Reattempt button.
 
-`   `- The system processes the reattempt request and redirects the Rider to the delivery module for reattempting the order.
+- The system processes the reattempt request and redirects the Rider to the delivery module for reattempting the order.
 ### **Alternative Flow**
 1\. If the Rider's app loses connectivity, the system displays an error message and restricts actions like viewing orders or initiating reattempts.
 
 2\. If the Rider clicks the Reattempt button for an undelivered order with incomplete details:
 
-`   `- The system prompts the Rider to fill in the missing delivery details or contact the customer support team.
+- The system prompts the Rider to fill in the missing delivery details or contact the customer support team.
 
 3\. If the Reattempt action fails (e.g., backend error):
 
-`   `- The system displays a failure notification and suggests retrying after some time.
+- The system displays a failure notification and suggests retrying after some time.
