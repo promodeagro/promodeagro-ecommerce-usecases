@@ -1,7 +1,7 @@
 ﻿# **Use Case: Rider Login Using OTP**
-Actor: Rider
+**Actor:** Rider
 
-Description: This use case allows a rider to log in to the application by entering their registered mobile number, receiving an OTP, and verifying it.
+**Description:** This use case allows a rider to log in to the application by entering their registered mobile number, receiving an OTP, and verifying it.
 ## **Trigger Point:**
 The rider opens the application and enters their registered mobile number to log in.
 ## **Pre-Conditions:**
@@ -33,11 +33,11 @@ The rider opens the application and enters their registered mobile number to log
 
 9\. The system verifies the OTP:
 
-`   `- If valid, the rider is logged in and redirected to the home screen.
+- If valid, the rider is logged in and redirected to the home screen.
 
-`   `- If invalid, an error message is displayed, and the rider can re-enter the OTP or request a resend.
+- If invalid, an error message is displayed, and the rider can re-enter the OTP or request a resend.
 ## **Alternative Flow:**
-OTP Resend Flow:
+**OTP Resend Flow:**
 
 1\. If the rider does not receive the OTP within the expected time, they can click on the 'Resend OTP' link.
 
