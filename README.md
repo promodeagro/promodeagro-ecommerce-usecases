@@ -68,23 +68,11 @@
 | 6. Notifications and Alerts |[Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Notifications%20and%20Alerts%20UC/Notifications_and_Alerts_Use_Case.md)|Notifications and Alerts Test Case|| [Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=4377-5341&node-type=frame&t=WycsOW6mEQQPpeoa-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112804&starting-point-node-id=4414%3A10649)
 
 # Packers UseCases And Test Cases
-| Use Case Name   | Use Case link | Test Case Name | Test Case Link| Status |
+| Use Case Name   | Use Case link | Test Case Name | Test Case Link| Design Link |
 | --- | --- | --- | --- | --- |
 | 1. User Authentication | 
-| a. Registration |[Reistration use case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Registration.md) |Registration Test Case| www.google.com |
-| b. Login |[Login Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Login.md) |Login Test Case| www.google.com | 
-| 2. Product Catalog | 
-| a. Browsing | [Browsing Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Browsing.md) |Browsing Test Case| www.google.com |
-| b. Product Details | [Product Detail Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Product%20Details.md)|Product Details Test Case| www.google.com |
-| 3. Shopping Cart | [Shopping Cart Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Shopping%20Cart.md) |Shopping Cart Test Case | www.google.com |
-| 4. Check Out Process | 
-| a. Address and Shipping | [Address and Shipping Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Address%20and%20Shiping.md)|Check Out Process Test Case| www.google.com |
-| b. Payment |[Payment Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Payments.md) |Payment Test Case| www.google.com | 
-| 5. Order Management |  
-| a. Order Placement |[Order Placement Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Order%20Placement.md) |Order Placement Test Case| www.google.com |
-| b. Order Tracking | [Order Tracking Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Order%20Tracking.md)|Order Tracking Test Case| www.google.com |
-| 6. User Account Management | [User Account Management Use Case](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/User%20Account%20Management.md) |User Account Management Test Case| www.google.com |
-| 7. Search Functionality | [Search Functionality](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Search%20Functionality.md) |Search Functionality Test Case| www.google.com |
-| 8. Promotion and Discounts | [Promotion and Discounts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Promotions%20and%20Discounts.md) |Promotions and Discounts Test Case| www.google.com |
-| 9. Mobile Responsiveness | [Mobile Responsiveness](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Mobile%20Responsive.md) |Mobile Responsiveness Test Case| www.google.com |
-| 10. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| a. Login|[Login use case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Packer%20UC/Packer_Login_Use_Case/Packer_Login_Use_Case.md) |Registration Test Case| | [Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=4407-8728&t=aoSWpCFZLJkakngW-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112803&starting-point-node-id=4407%3A9643)
+| 2. Orders |[Orders Use Case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Packer%20UC/Packing_Orders_Use_Case/Packing_Orders_Use_Case.md) |Orders Test Case| www.google.com |[Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=4407-8603&t=1PWc15nj2boCHEpf-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112803&starting-point-node-id=4407%3A9643)
+| 3. Update Profile and Change Password | [Update Profile and Change Password Use Case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Packer%20UC/Update_Profile_Change_Password_Use_Case/Update_Profile_Change_Password_Use_Case.md) | Update Profile and Change Password Test Case | www.google.com |[Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=4407-9775&t=9WeV6AR4V83ycVYe-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112803&starting-point-node-id=4407%3A9643)
+| 4. View Packed Order Details |[View Packed Order Details Use Case](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Packer%20UC/View_Packed_Order_Details_Use_Case/View_Packed_Order_Details_Use_Case.md)|View Packed Order Details Test Case| www.google.com |[Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=4407-9418&t=9WeV6AR4V83ycVYe-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112803&starting-point-node-id=4407%3A9643)
+| 10. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-usecases/blob/main/Rider%20UC/Notifications%20and%20Alerts%20UC/Notifications_and_Alerts_Use_Case.md)|Notifications and Alerts Test Case| www.google.com |[Link](https://www.figma.com/proto/fs00b0seKFtYfTucfGQMD6/ECOM-PLATFORM?node-id=4377-5341&node-type=frame&t=WycsOW6mEQQPpeoa-1&scaling=scale-down&content-scaling=fixed&page-id=3162%3A112804&starting-point-node-id=4414%3A10649)
